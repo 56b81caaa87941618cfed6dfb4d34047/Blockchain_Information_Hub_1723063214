@@ -42,5 +42,11 @@
         "content": "add a navbar with navlinks home, abot and contact",
         "timestamp": "07082024204127",
         "message_id": "guest07082024204127"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation on scroll\", \"checked\": true}, {\"feature\": \"Dropdown menus under navlinks for categorization of information\", \"checked\": false}, {\"feature\": \"Search functionality within the navbar to find specific blockchain topics\", \"checked\": true}, {\"feature\": \"Theme toggle switch (light/dark mode) in the navbar for user preference\", \"checked\": false}, {\"feature\": \"Live chat support icon in the navbar for instant help\", \"checked\": false}, {\"feature\": \"Responsive design for navbar to ensure compatibility with mobile devices\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 124, \"time_taken\": \"0:00:03.256850\"}",
+        "timestamp": "07082024204131",
+        "message_id": "guest07082024204127"
     }
 ]
