@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page, or would you prefer it to disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappears on scroll\"}, {\"question 2\": \"Do you have a specific color scheme or theme in mind for the navbar that matches your existing app design?\", \"option1\": \"Yes, I have a specific color scheme\", \"option2\": \"No, I'm open to suggestions\"}], \"input_token_count\": 604, \"output_token_count\": 117, \"time_taken\": \"0:00:07.186832\"}",
+        "message_id": "guest07082024204433",
+        "timestamp": "07082024204442",
+        "component_file_name": "simple_hero_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a navbar with navlinks for home, about and contact.",
         "message_id": "guest07082024204433",
