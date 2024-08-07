@@ -21,7 +21,9 @@ Vue.component("simple_header_component_1723063216", {
                         </svg>
                     </button>
 
-                    <button id="hello-world-button" class="ml-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-700 focus:outline-none">Hello World</button>
+
+                    <button id="hello-world-button" class="ml-4 px-4 py-2 bg-gradient-to-r from-purple-500 to-purple-700 text-white rounded-lg shadow-md hover:bg-purple-800 focus:outline-none">Hello World</button>
+
                     
                 <div id="mobile-menu-2" class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1">
                     <ul id="nav-list" class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
