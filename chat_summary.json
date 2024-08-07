@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the user's screen as they scroll, or should it only appear at the top of each page?\", \"option1\": \"Fixed navbar\", \"option2\": \"Static navbar at the top of each page\"}, {\"question 2\": \"Do you have any specific color scheme or design style in mind for the navbar?\", \"option1\": \"Yes, I have specific colors and styles in mind.\", \"option2\": \"No, I'm open to suggestions based on the app's current design.\"}], \"input_token_count\": 266, \"output_token_count\": 126, \"time_taken\": \"0:00:06.733754\"}",
         "timestamp": "07082024204134",
         "message_id": "guest07082024204127"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "timestamp": "07082024204149",
+        "message_id": "guest07082024204149"
     }
 ]
