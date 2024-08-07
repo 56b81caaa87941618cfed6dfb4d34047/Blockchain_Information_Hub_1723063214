@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest07082024204414",
+        "timestamp": "07082024204415",
+        "component_file_name": "simple_cta_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the Submit button to be placed on the app's interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"Fixed at the bottom of the screen, visible while scrolling\"}, {\"question 2\": \"What action should occur when the Submit button is pressed?\", \"option1\": \"Clear the form and display a success message\", \"option2\": \"Navigate to a confirmation page detailing the submission\"}], \"input_token_count\": 260, \"output_token_count\": 104, \"time_taken\": \"0:00:05.055258\"}",
         "message_id": "guest07082024204325",
