@@ -1,13 +1,13 @@
 /* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
 */
 Vue.component("simple_cta_component_1723063216", {
-    <nav id="navbar" class="bg-gray-800 p-4 shadow-lg">
+    <nav id="navbar" class="bg-white p-4 shadow-lg">
         <div class="max-w-screen-xl mx-auto flex justify-between items-center">
-            <div class="text-white text-lg font-bold">My Website</div>
+            <div class="text-black text-lg font-bold">My Website</div>
             <div class="flex space-x-4">
-                <a href="#" class="text-gray-300 hover:text-white">Home</a>
-                <a href="#" class="text-gray-300 hover:text-white">About</a>
-                <a href="#" class="text-gray-300 hover:text-white">Contact</a>
+                <a href="#" class="text-purple-700 hover:text-black">Home</a>
+                <a href="#" class="text-purple-700 hover:text-black">About</a>
+                <a href="#" class="text-purple-700 hover:text-black">Contact</a>
             </div>
         </div>
     </nav>
