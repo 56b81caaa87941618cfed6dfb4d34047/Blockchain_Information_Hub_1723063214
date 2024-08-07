@@ -1,6 +1,24 @@
 [
     {
         "role": "chat_acknowledge",
+        "content": "Great, I'll add a sidebar with links to home, about, and contact.",
+        "message_id": "guest07082024204210",
+        "timestamp": "07082024204211",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest07082024204210",
+        "timestamp": "07082024204210",
+        "component_file_name": "simple_footer_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Acknowledged, working on adding navbar with home, about and contact navlinks.",
         "message_id": "guest07082024204149",
         "timestamp": "07082024204150",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, adding a button to say \"Hello World\" now.",
-        "message_id": "guest07082024204109",
-        "timestamp": "07082024204110",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest07082024204109",
-        "timestamp": "07082024204110",
-        "component_file_name": "simple_header_component_1723063216",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "07082024204150",
-        "message_id": "guest07082024204149"
+        "content": "In the conversation, the user requested the AI to add a button that says \"Hello World.\" The AI acknowledged this request and stated, \"Absolutely, adding a button to say 'Hello World' now.\" It further asked the user to provide more details about the project to better assist in fulfilling the request.",
+        "timestamp": "07082024204211",
+        "message_id": "guest07082024204210"
     }
 ]
