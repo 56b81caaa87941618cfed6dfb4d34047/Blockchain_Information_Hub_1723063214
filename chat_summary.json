@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723063216",
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, working on adding navbar with home, about and contact navlinks.",
+        "message_id": "guest07082024204149",
+        "timestamp": "07082024204150",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "timestamp": "07082024204110",
-        "message_id": "guest07082024204109"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, adding a button to say \"Hello World\" now.",
-        "timestamp": "07082024204110",
-        "message_id": "guest07082024204109"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the screen?\", \"option1\": \"Center of the screen\", \"option2\": \"Bottom right corner\"}, {\"question 2\": \"What function would you like the 'Hello World' button to perform when clicked?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate users to a new page with more information\"}], \"input_token_count\": 261, \"output_token_count\": 103, \"time_taken\": \"0:00:03.067185\"}",
-        "timestamp": "07082024204114",
-        "message_id": "guest07082024204109"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable themes to personalize the 'Hello World' button appearance\", \"checked\": true}, {\"feature\": \"Implement a feature to share the 'Hello World' message on social media\", \"checked\": false}, {\"feature\": \"Include animations or effects when the 'Hello World' button is clicked for user engagement\", \"checked\": true}, {\"feature\": \"Provide multilingual support for the 'Hello World' message to cater to a diverse user base\", \"checked\": false}, {\"feature\": \"Add a feature to customize the 'Hello World' message by the users\", \"checked\": true}, {\"feature\": \"Incorporate voice feedback when the 'Hello World' button is pressed\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 149, \"time_taken\": \"0:00:04.766953\"}",
-        "timestamp": "07082024204115",
-        "message_id": "guest07082024204109"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I'll add a navbar containing the home, about and contact navlinks.",
-        "timestamp": "07082024204127",
-        "message_id": "guest07082024204127"
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with navlinks home, abot and contact",
-        "timestamp": "07082024204127",
-        "message_id": "guest07082024204127"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation on scroll\", \"checked\": true}, {\"feature\": \"Dropdown menus under navlinks for categorization of information\", \"checked\": false}, {\"feature\": \"Search functionality within the navbar to find specific blockchain topics\", \"checked\": true}, {\"feature\": \"Theme toggle switch (light/dark mode) in the navbar for user preference\", \"checked\": false}, {\"feature\": \"Live chat support icon in the navbar for instant help\", \"checked\": false}, {\"feature\": \"Responsive design for navbar to ensure compatibility with mobile devices\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 124, \"time_taken\": \"0:00:03.256850\"}",
-        "timestamp": "07082024204131",
-        "message_id": "guest07082024204127"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the user's screen as they scroll, or should it only appear at the top of each page?\", \"option1\": \"Fixed navbar\", \"option2\": \"Static navbar at the top of each page\"}, {\"question 2\": \"Do you have any specific color scheme or design style in mind for the navbar?\", \"option1\": \"Yes, I have specific colors and styles in mind.\", \"option2\": \"No, I'm open to suggestions based on the app's current design.\"}], \"input_token_count\": 266, \"output_token_count\": 126, \"time_taken\": \"0:00:06.733754\"}",
-        "timestamp": "07082024204134",
-        "message_id": "guest07082024204127"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest07082024204149",
         "timestamp": "07082024204149",
+        "component_file_name": "simple_footer_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the user's screen as they scroll, or should it only appear at the top of each page?\", \"option1\": \"Fixed navbar\", \"option2\": \"Static navbar at the top of each page\"}, {\"question 2\": \"Do you have any specific color scheme or design style in mind for the navbar?\", \"option1\": \"Yes, I have specific colors and styles in mind.\", \"option2\": \"No, I'm open to suggestions based on the app's current design.\"}], \"input_token_count\": 266, \"output_token_count\": 126, \"time_taken\": \"0:00:06.733754\"}",
+        "message_id": "guest07082024204127",
+        "timestamp": "07082024204134",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation on scroll\", \"checked\": true}, {\"feature\": \"Dropdown menus under navlinks for categorization of information\", \"checked\": false}, {\"feature\": \"Search functionality within the navbar to find specific blockchain topics\", \"checked\": true}, {\"feature\": \"Theme toggle switch (light/dark mode) in the navbar for user preference\", \"checked\": false}, {\"feature\": \"Live chat support icon in the navbar for instant help\", \"checked\": false}, {\"feature\": \"Responsive design for navbar to ensure compatibility with mobile devices\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 124, \"time_taken\": \"0:00:03.256850\"}",
+        "message_id": "guest07082024204127",
+        "timestamp": "07082024204131",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, abot and contact",
+        "message_id": "guest07082024204127",
+        "timestamp": "07082024204127",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'll add a navbar containing the home, about and contact navlinks.",
+        "message_id": "guest07082024204127",
+        "timestamp": "07082024204127",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable themes to personalize the 'Hello World' button appearance\", \"checked\": true}, {\"feature\": \"Implement a feature to share the 'Hello World' message on social media\", \"checked\": false}, {\"feature\": \"Include animations or effects when the 'Hello World' button is clicked for user engagement\", \"checked\": true}, {\"feature\": \"Provide multilingual support for the 'Hello World' message to cater to a diverse user base\", \"checked\": false}, {\"feature\": \"Add a feature to customize the 'Hello World' message by the users\", \"checked\": true}, {\"feature\": \"Incorporate voice feedback when the 'Hello World' button is pressed\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 149, \"time_taken\": \"0:00:04.766953\"}",
+        "message_id": "guest07082024204109",
+        "timestamp": "07082024204115",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the screen?\", \"option1\": \"Center of the screen\", \"option2\": \"Bottom right corner\"}, {\"question 2\": \"What function would you like the 'Hello World' button to perform when clicked?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate users to a new page with more information\"}], \"input_token_count\": 261, \"output_token_count\": 103, \"time_taken\": \"0:00:03.067185\"}",
+        "message_id": "guest07082024204109",
+        "timestamp": "07082024204114",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, adding a button to say \"Hello World\" now.",
+        "message_id": "guest07082024204109",
+        "timestamp": "07082024204110",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest07082024204109",
+        "timestamp": "07082024204110",
+        "component_file_name": "simple_header_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "07082024204150",
         "message_id": "guest07082024204149"
     }
 ]
