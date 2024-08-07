@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the sidebar to be permanently visible or should it be collapsible?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar navigation links be icon-based, text-based, or a combination of both?\", \"option1\": \"Icon-based\", \"option2\": \"Text-based\"}], \"input_token_count\": 265, \"output_token_count\": 88, \"time_taken\": \"0:00:02.738374\"}",
+        "message_id": "guest07082024204210",
+        "timestamp": "07082024204214",
+        "component_file_name": "simple_footer_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a sidebar with links to home, about, and contact.",
         "message_id": "guest07082024204210",
