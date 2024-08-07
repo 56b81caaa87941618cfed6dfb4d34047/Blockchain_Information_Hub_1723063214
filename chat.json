@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under each navlink for deeper exploration such as 'Blockchain Types', 'Latest Trends', and 'Frequently Asked Questions'\", \"checked\": true}, {\"feature\": \"A search bar at the top of the sidebar for quick navigation or to search topics of interest\", \"checked\": true}, {\"feature\": \"A 'Recent Updates' section in the sidebar to highlight the latest blockchain news or additions to the site\", \"checked\": false}, {\"feature\": \"User account integration with profile icon in the sidebar for personalized content or saved searches\", \"checked\": false}, {\"feature\": \"Theme toggle button (light/dark mode) in the sidebar for user preference\", \"checked\": true}, {\"feature\": \"Feedback or 'Report a Problem' link at the bottom of the sidebar to improve user engagement and app quality\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 178, \"time_taken\": \"0:00:07.858675\"}",
+        "message_id": "guest07082024204210",
+        "timestamp": "07082024204219",
+        "component_file_name": "simple_footer_component_1723063216",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the sidebar to be permanently visible or should it be collapsible?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar navigation links be icon-based, text-based, or a combination of both?\", \"option1\": \"Icon-based\", \"option2\": \"Text-based\"}], \"input_token_count\": 265, \"output_token_count\": 88, \"time_taken\": \"0:00:02.738374\"}",
         "message_id": "guest07082024204210",
