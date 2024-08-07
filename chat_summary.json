@@ -36,5 +36,11 @@
         "content": "I'll add a navbar containing the home, about and contact navlinks.",
         "timestamp": "07082024204127",
         "message_id": "guest07082024204127"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, abot and contact",
+        "timestamp": "07082024204127",
+        "message_id": "guest07082024204127"
     }
 ]
