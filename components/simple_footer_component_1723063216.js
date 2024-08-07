@@ -35,9 +35,10 @@ Vue.component("simple_footer_component_1723063216", {
                 </div>
 
                 <div class="flex justify-center mt-4">
-                    <button class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded shadow-lg">
-                        Submit
-                    </button>
+
+                <button class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Submit
+                </button>
                 </div>
             </div>
         </footer> 
